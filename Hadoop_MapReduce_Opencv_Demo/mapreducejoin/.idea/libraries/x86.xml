@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="x86">
+    <CLASSES>
+      <root url="jar://D:/BigData/JavaOpencv/javacv-windows-x86_64.jar/javacv-windows-x86_64.jar!/com/googlecode/javacv" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

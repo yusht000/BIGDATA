@@ -1,0 +1,2 @@
+Hadoop中MapReduce 结合Opencv 简单应用
+#重新定义InputFormat OutputFormat
